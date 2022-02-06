@@ -7,3 +7,6 @@
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/Gyeom/config-service.git
+[submodule "apigateway-service"]
+	path = apigateway-service
+	url = https://github.com/Gyeom/apigateway-service.git
