@@ -4,3 +4,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/Gyeom/user-service.git
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/Gyeom/config-service.git
