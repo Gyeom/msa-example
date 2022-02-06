@@ -13,3 +13,6 @@
 [submodule "discoveryservice"]
 	path = discoveryservice
 	url = https://github.com/Gyeom/discoveryservice.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/Gyeom/config-server.git
