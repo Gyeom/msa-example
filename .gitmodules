@@ -10,3 +10,6 @@
 [submodule "apigateway-service"]
 	path = apigateway-service
 	url = https://github.com/Gyeom/apigateway-service.git
+[submodule "discoveryservice"]
+	path = discoveryservice
+	url = https://github.com/Gyeom/discoveryservice.git
