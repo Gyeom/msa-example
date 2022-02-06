@@ -16,3 +16,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/Gyeom/config-server.git
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/Gyeom/catalog-service.git
